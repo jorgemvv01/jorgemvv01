@@ -1,4 +1,4 @@
-# 🏄‍♂️ Jorge Mario Villarreal Vargas
+# 🚀 Jorge Mario Villarreal Vargas
 
 **`System Engineer - Software Developer | Mobile & web`**
 
@@ -31,4 +31,9 @@ I like to constantly learn about good development practices to apply them in my 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgemvv01&show_icons=true&theme=gruvbox)
 
