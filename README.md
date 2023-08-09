@@ -35,5 +35,5 @@ I like to constantly learn about good development practices to apply them in my 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgemvv01&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgemvv01&show_icons=true&theme=dracula)
 
